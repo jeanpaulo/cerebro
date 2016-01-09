@@ -1,64 +1,54 @@
 ![Logo Cerebro](logo-cerebro.jpg "Cerebro")
 
-## Olá, sejam bem-vindos ao CEREBRO!
+## Olá, seja bem-vindo ao CEREBRO!
 
 Acreditamos que você saiba da importância em dominar o idioma inglês na área de Desenvolvimento, Programação e afins. Porém, sabemos também que nem todos possuem meios para ingressar em um curso de inglês. É verdade que dispomos de cursos online gratuitos, mas a presença de um professor e o _chat_ com os colegas em sala de aula é de grande ajuda. Nem todo mundo é autodidata ou nasce num berço de ouro. Não é verdade?
 
-Sendo assim, foi criado o CEREBRO. Um espaço que vai reunir documentos traduzidos e ser o `help` nos seus estudos enquanto você fica fera no inglês para se virar sozinho. Combinado? =]
+Sendo assim, foi criado o CEREBRO. Um espaço que vai reunir muito conteúdo interessante e ser o `help` inicial nos seus estudos até que você fique fera no inglês para se virar sozinho. Combinado? =]
 
-Esperamos que este espaço seja útil e que ajude no seu crescimento profissional e pessoal.
+Esperamos que este espaço seja útil e que ajude no seu crescimento profissional e pessoal. Contamos também com a sua contribuição, seja dando sugestões ou adicionando novos materiais.
 
-Bons estudos!
+Vamos crescer juntos! Bons estudos!
 
 ## Estrutura
 
-Confira o material disponível até o momento no Cerebro:
+Abaixo, segue uma relação dos repositórios existentes até o momento no CEREBRO.
 
-### Livros
-- [Eloquent JavaScript](https://github.com/cerebrobr/eloquente-javascript)
-- [Sinatra](https://github.com/cerebrobr/sinatra-book)
+##### Repositórios Principais
 
-### Artigos
-Todos os artigos traduzidos, serão armazenados no repositório [traduz-ai](https://github.com/cerebrobr/traduz-ai)
+- [Adesivos](https://github.com/cerebrobr/adesivos)
+- [Apresentações](https://github.com/cerebrobr/apresentacoes)
+- [Artigos](https://github.com/cerebrobr/artigos)
+- [Biblioteca](https://github.com/cerebrobr/biblioteca)
+- [Comunidade](https://github.com/cerebrobr/comunidade)
+- [Documentações](https://github.com/cerebrobr/documentacoes)
+- [Ferramentas](https://github.com/cerebrobr/ferramentas)
+- [Glossário](https://github.com/cerebrobr/glossario)
+- [Guias](https://github.com/cerebrobr/guias)
+- [Iniciantes](https://github.com/tableless/iniciantes)
+- [Livros](https://github.com/cerebrobr/livros)
+- [Pesquisas](https://github.com/cerebrobr/pesquisas)
+- [Tópicos](https://github.com/cerebrobr/topicos)
+- [Universidade](https://github.com/cerebrobr/universidade)
+- [Meetups](https://github.com/cerebrobr/meetups)
 
-### Guias
-- [PromiseJS](https://github.com/cerebrobr/promiseJS.br)
-- [Art of Node](https://github.com/cerebrobr/art-of-node/blob/master/readme.pt-br.md)
-- [Stream HandBook](https://github.com/cerebrobr/stream-handbook)
-- [AngularJS Style Guide](https://github.com/cerebrobr/angularjs-style-guide/blob/master/README-pt-br.md)
+##### Outros repositórios
 
-### Documentação
-- [Jasmine](https://github.com/cerebrobr/jasmine-br-docs)
+- [doc-d3.js](https://github.com/cerebrobr/doc-d3.js)
+- [es6features](https://github.com/cerebrobr/es6features)
+- [web-design-para-iniciantes](https://github.com/cerebrobr/web-design-para-iniciantes)
 
-### Screencasts
-- [MongoDB University](https://github.com/cerebrobr/mongodb-university-brasil)
-- [Node.js - Jumpstart for Devs](https://github.com/cerebrobr/nodejs-jumpstart-for-devs-legendasPTBR)
-- [Egghead](https://github.com/cerebrobr/egghead.br)
+## [Como Contribuir](https://github.com/cerebrobr/cerebro/blob/master/CONTRIBUTING.md)
 
+## Notas Importantes
 
-## Contribuições
+**Sobre Repositórios**
 
-Estamos em busca de colaboradores. Se você puder ajudar e quiser fazer parte desta iniciativa para disseminar o conhecimento, confira as informações abaixo.
+- A princípio, os repositórios **universidade** e **pesquisa** serão atualizados apenas pelos administradores. Entretanto, contamos com a sua participação deixando sugestões para aprimorá-los.
+- O repositório **biblioteca** consta como uma referência e abriga futuros materiais para tradução. Serão aceitos somente materiais em _inglês_ neste repositório.
 
-### Guia para contribuir
+**Sobre Contribuições**
 
-1. Faça o *fork* do repositório desejado
-2. Comente na *issue* relacionada ao arquivo que você irá traduzir para os moderadores adicionarem a label *translating* na respectiva *issue* do arquivo.
-3. Realize a tradução do arquivo escolhido.
-5. Faça um *Pull Request* para enviar o arquivo traduzido.
-
-
-### Entendendo as labels
-
-- *translating* - tradução de arquivo em andamento
-- *revision*    - arquivos que estão sendo revisados
-- *update*      - arquivo atualizado no repositório original
-- *question*    - espaço para sugestões e perguntas referentes ao repositório
-
-
-### Algumas recomendações
-
-- Procure traduzir uma *issue* de cada vez
-- Utilize notas de rodapé para termos técnicos com o seu respectivo link externo para mais informações ou alguma referência.
-- Mensagens de *commits* devem ser em **pt-BR**.
-- Caso o documento possua alguma referência para um documento em inglês, traduza o título e coloque entre parênteses (em inglês). Ex.: [Um título qualquer para o documento (em inglês)](http://www.linkparaodocumento.com).
+- Verifique se a licença da obra permite que o mesmo seja traduzido e compartilhado na comunidade com os devidos créditos ao autor original. Isso evita perda de tempo da sua parte e dor de cabeça para todos nós.
+- Alguns documentos e materiais já se encontram traduzidos na iniciativa do link mencionado acima, confira [aqui](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-pt_BR.md) a lista.
+- Qualquer material acerca de Desenvolvimento Web, Comunicação, Programação e TI será bem vindo.
